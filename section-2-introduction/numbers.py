@@ -9,6 +9,9 @@
 # Int is stored in memory as binary
 # Float stores number in two different locations in memory
 
+
+
+
 print(type(10.56)) # <class 'float'>
 
 # We need more memory to store a float
@@ -23,3 +26,10 @@ print(2 // 4) # 0 (integer division) gets rounded down
 
 # modulo operator: remainder of division
 print(10 % 3) # 1
+
+############################################################
+#                 MATH FUNCTIONS                           #
+############################################################
+
+print(round(3.1)) # 10.56
+print(abs(-3.1)) # 3.1
