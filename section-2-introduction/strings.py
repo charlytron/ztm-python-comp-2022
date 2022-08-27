@@ -24,6 +24,6 @@ first_name = "Panayotes"
 last_name = "Panayotides"
 full_name = first_name + " " + last_name
 
-print(full_name) # Panayotis Panayotides
+print(full_name) # Panayotes Panayotides
 
 
