@@ -1,5 +1,5 @@
 ############################################################
-#                       LIST METHODS                       #
+#                 LIST METHODS EXPLAINED                   #
 ############################################################
 
 # List methods are functions that operate on lists.
