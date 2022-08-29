@@ -16,3 +16,9 @@ li3 = [1, 'a', 2, 'b', 3, 'c', 4, 'd', 5, 'e', True]
 # Has different pros and cons of accessing data, removing data, and adding data.
 
 # Lists allow us to contain data in a specific order.
+
+amazon_cart = ['milk', 'bread', 'eggs', 'apples', 'bananas']
+
+# Accessing data with indexing
+print(amazon_cart[0]) # milk
+
