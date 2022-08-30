@@ -15,7 +15,9 @@ print(basket) # gives us [1, 8, 3, 9, 5]
 # sorted() creates a new copy of the basket list and sorts it.
 
 new_basket = basket[:] # creates a new copy of the basket list.
-new_basket.sort()
-basket.reverse() # modifies the original list.
+new_basket.copy # also creates a new copy of the basket list.
+
+new_basket.sort() # sorts the new copy of the basket list.
+basket.reverse() # reverses the basket in place.
 print(basket) # gives us [5, 9, 3, 8, 1]
 
