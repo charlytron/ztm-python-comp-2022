@@ -27,3 +27,4 @@ def show_tree():
 
 
 show_tree()
+print(show_tree) # prints the memory address of the function
