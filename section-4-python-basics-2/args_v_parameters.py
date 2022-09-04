@@ -11,8 +11,9 @@ lname = "Winkerbean"
 def my_function(fname, lname): # fname and lname are parameters
     print(f'Jello, {fname} {lname}')
 
-my_function("Gomer", "Pyle") # fname and lname are arguments
-# These arguments override the parameters
+my_function(fname, lname) # fname and lname are arguments
+# These arguments override the parameters, as in
+my_function("Gomer", "Pyle")
 
 # Arguments are used to pass values to a function
 
