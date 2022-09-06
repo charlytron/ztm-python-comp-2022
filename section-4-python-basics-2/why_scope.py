@@ -34,3 +34,8 @@ outer() # returns 'inner: nonlocal outer: nonlocal'
 # The garbage collector will come along and clean up all this memory.
 
 # This is why scope matters. We have to be careful about how we use memory.
+
+
+
+x = float(2.8)
+print (x)
