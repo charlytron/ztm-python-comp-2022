@@ -112,8 +112,6 @@ All the players have the same membership, set to `True`. But this is obviously n
 
 Maybe we want to check membership; only if membership is `True` we want to assign the name and age. But in order for us to access membership, we need to use the class name.
 
-
-
 ``` python
 
 class PlayerCharacter:
@@ -145,5 +143,3 @@ if (PlayerCharacter.membership):
     self.name = name # attributes, or properties
     self.age = age
 ```
-
-

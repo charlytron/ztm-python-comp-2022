@@ -60,4 +60,3 @@ print(player1.run()) # run done
 print(player1) # <__main__.PlayerCharacter object at 0x7f8b8c0b4a90>
 print(player2) # <__main__.PlayerCharacter object at 0x7f8b8c0b4a90>
 ```
-
