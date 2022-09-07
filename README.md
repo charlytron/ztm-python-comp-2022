@@ -10,4 +10,8 @@ The lecture naming conventions I use are merely for emphasis and visibility. In 
 
 - prefixed `b` are written in Jupyter notebooks so that I can practice the environment per VS Code.
 
-Conclusion: Jupyter Notebooks are far superior for this style of note-taking, as of 20220907.
+Conclusion: Jupyter Notebooks are far superior for this style of note-taking, as of now.
+
+Have now added the __Ijavascript__ kernel for Jupyter. Using Node, it behaves like the NodeJS REPL. We can click on `new` and choose the Javascript kernel.
+
+Repo for __IJavascript__ is [here](https://github.com/n-riesco/ijavascript)
