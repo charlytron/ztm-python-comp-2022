@@ -8,3 +8,5 @@ A note about lecture naming conventions. Merely for emphasis and visibility, tho
 - Prefixed by `a` in are written in Markdown via VS code.
 
 - Prefixed `b` are written in Jupyter notebooks so that I can practice the environment per VS Code.
+
+Conclusion: Jupyter Notebooks are far superior for this style of note-taking, as of 20220907.
