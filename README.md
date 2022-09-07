@@ -1,6 +1,6 @@
 # ztm-python-comp-2022
 
-A thorough review of Python after a 2 year hiatus. I've included some notes and code snippets.
+A thorough review of Python after a 2 year hiatus, here are some notes and code snippets.
 A note about my lecture naming conventions. Those lectures...
 
 - Without any alpha-numeric prefix whatsoever are strictly written in Python
