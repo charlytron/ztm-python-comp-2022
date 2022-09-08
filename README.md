@@ -12,7 +12,7 @@ The lecture naming conventions I use are merely for emphasis and visibility. In 
 
 ## Using Jupyter Notebooks
 
-This suits my style of note-taking, as of now, allowing us to run code in place. And they follow the DRY plaradigm. No diggity!
+This suits my style of note-taking, as of now, allowing us to run code in place. And they follow the DRY convention. No diggity!
 
 Why write the same code chunks across the notebook to have access to already global variables just to write a snippet? All in on this one.
 
