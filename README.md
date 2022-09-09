@@ -12,9 +12,11 @@ The lecture naming conventions I use are merely for emphasis and visibility. In 
 
 ## Using Jupyter Notebooks
 
-This suits my style of note-taking, as of now, allowing us to run code in place. And they follow the DRY convention. No diggity!
+This suits my style of note-taking, as of now, not only allowing us to run code in place. __We can test our assumptions about how the code works__, something that wouldn't be possible if we used doc strings to document our code:
 
-Why write the same code chunks across the notebook to have access to already global variables just to write a snippet? All in on this one.
+__\``` python
+print('that/'s not how we roll')
+\```__
 
 I've also added the __Ijavascript__ kernel for Jupyter. Using Node, it behaves like the NodeJS REPL. We only need click on `new` and choose the Javascript kernel.
 
