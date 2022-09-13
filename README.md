@@ -1,6 +1,6 @@
 # ztm-python-comp-2022
 
-From a course taught by Andrei Neagoie.
+Notes from a course taught by Andrei Neagoie.
 
 The lecture naming conventions I use are merely for emphasis and visibility. In this schema, those lectures...
 
