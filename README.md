@@ -8,7 +8,7 @@ The lecture naming conventions I use are merely for emphasis and visibility. In 
 
 - prefixed by `a` in are written in Markdown via VS code.
 
-- prefixed `b` are written in Jupyter notebooks so that I can practice the environment per VS Code.
+- prefixed `b` are written in Jupyter notebooks so that I can practice the environment per the Jupyter extension in VS Code.
 
 ## Using Jupyter Notebooks
 
