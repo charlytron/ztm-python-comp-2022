@@ -1,5 +1,8 @@
-def bar_foo(num):
+def bar_foo(num=0):
   try:
-    return int(num) + 5
+    if num:
+      return int(num) + 5
+    else:
+      return 'please enter number, yo'
   except ValueError as err:
     return err
