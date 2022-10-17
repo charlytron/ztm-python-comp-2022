@@ -2,6 +2,7 @@ import requests
 import hashlib # for SHA-1 hashing
 import sys
 
+
 def request_api_data(query_char):
     url = 'https://api.pwnedpasswords.com/range/' + query_char
     res = requests.get(url)
@@ -31,4 +32,5 @@ def main(args):
       print(f'{password} was not found')
   return 'done!'
 
-main(sys.argv[1:])
+if __name__ == '__main__':
+  sys.exit(main(sys.argv[1:])) # this makes the sys call exit and bring us back to the command line
